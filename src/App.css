@@ -129,6 +129,7 @@ h1, h2, h3, h4, h5, h6, p{
 .header__link--icon{
     margin-right: 1.3rem;
     flex-shrink: 0;
+    max-width: 21px;
 }
 
 /* Main  */
@@ -539,6 +540,15 @@ h1, h2, h3, h4, h5, h6, p{
     .faq__item{
         padding: 6rem 4rem;
     }
+
+    .footer__copy{
+        order: 3;
+        margin-top: 2rem;
+    }
+
+    .footer__inner{
+        flex-wrap: wrap;
+    }
 }
 @media(max-width: 998px){
     .container{
@@ -591,15 +601,6 @@ h1, h2, h3, h4, h5, h6, p{
     .discord__title{
         font-size: 3rem;
         margin-top: 3rem;
-    }
-
-    .footer__copy{
-        order: 3;
-        margin-top: 2rem;
-    }
-
-    .footer__inner{
-        flex-wrap: wrap;
     }
 }
 @media(max-width: 768px){

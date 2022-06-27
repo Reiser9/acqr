@@ -13,6 +13,12 @@ const App = () => {
                         </a>
 
                         <div className='header__wrapper'>
+                            <a href="https://mirror.xyz/0x5f4c12c9100b10854dCF562B728f1Cf3606FD5Ee" target="_blanc" className='header__link'>
+                                <img src='./assets/img/mirror.png' alt='discord' className='header__link--icon' />
+
+                                Mirror
+                            </a>
+                            
                             <a href="https://discord.com/invite/gEFgd9at6C" target="_blanc" className='header__link'>
                                 <img src='./assets/img/discord.svg' alt='discord' className='header__link--icon' />
 
@@ -25,7 +31,7 @@ const App = () => {
                                 Twitter
                             </a>
 
-                            <a href="https://luxurious-truffle-c41.notion.site/ACQR-Acquire-af9a137a7fd846feb082219762853334" target="_blanc" className='header__link'>
+                            <a href="https://acqr.notion.site/ACQR-Acquire-af9a137a7fd846feb082219762853334" target="_blanc" className='header__link'>
                                 <img src='./assets/img/file.svg' alt='docs' className='header__link--icon' />
 
                                 Docs
@@ -49,7 +55,7 @@ const App = () => {
                                 ACQR helps you &lsquo;acquire&rsquo; new skills from different web3 protocols and rewards you for completing specific on and off-chain tasks.
                             </p>
 
-                            <a href="https://luxurious-truffle-c41.notion.site/ACQR-Acquire-af9a137a7fd846feb082219762853334" target="_blanc" className='button main__button'>
+                            <a href="https://acqr.notion.site/ACQR-Acquire-af9a137a7fd846feb082219762853334" target="_blanc" className='button main__button'>
                                 Learn more
                             </a>
                         </div>
@@ -173,7 +179,7 @@ const App = () => {
                                 Let&rsquo;s get you set up on a campaign to grow your community and acquire more users!
                             </p>
 
-                            <a href="https://luxurious-truffle-c41.notion.site/ACQR-Acquire-af9a137a7fd846feb082219762853334" className='button faq__item--button' target="_blanc">
+                            <a href="https://airtable.com/shrqrkN4CPHcJiKL5" className='button faq__item--button' target="_blanc">
                                 Learn more
                             </a>
                         </div>
@@ -214,6 +220,12 @@ const App = () => {
                         </p>
 
                         <div className='header__wrapper'>
+                            <a href="https://mirror.xyz/0x5f4c12c9100b10854dCF562B728f1Cf3606FD5Ee" target="_blanc" className='header__link'>
+                                <img src='./assets/img/mirror.png' alt='discord' className='header__link--icon' />
+
+                                Mirror
+                            </a>
+
                             <a href="https://discord.com/invite/gEFgd9at6C" target="_blanc" className='header__link'>
                                 <img src='./assets/img/discord.svg' alt='discord' className='header__link--icon' />
 
@@ -226,7 +238,7 @@ const App = () => {
                                 Twitter
                             </a>
 
-                            <a href="https://luxurious-truffle-c41.notion.site/ACQR-Acquire-af9a137a7fd846feb082219762853334" target="_blanc" className='header__link'>
+                            <a href="https://acqr.notion.site/ACQR-Acquire-af9a137a7fd846feb082219762853334" target="_blanc" className='header__link'>
                                 <img src='./assets/img/file.svg' alt='docs' className='header__link--icon' />
 
                                 Docs
